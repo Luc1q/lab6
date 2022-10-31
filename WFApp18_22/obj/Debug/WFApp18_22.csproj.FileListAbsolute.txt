@@ -1,0 +1,41 @@
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\bin\Debug\WFApp18_22.exe.config
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\bin\Debug\WFApp18_22.exe
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\bin\Debug\WFApp18_22.pdb
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.csproj.AssemblyReference.cache
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.csproj.SuggestedBindingRedirects.cache
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.AboutBox1.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.Form1.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.Form2.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.Properties.Resources.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.csproj.GenerateResource.cache
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.csproj.CoreCompileInputs.cache
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.exe
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня18\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.pdb
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\bin\Debug\WFApp18_22.exe.config
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\bin\Debug\WFApp18_22.exe
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\bin\Debug\WFApp18_22.pdb
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.csproj.AssemblyReference.cache
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.csproj.SuggestedBindingRedirects.cache
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.AboutBox1.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.Form1.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.Form2.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.Properties.Resources.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.csproj.GenerateResource.cache
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.csproj.CoreCompileInputs.cache
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.exe
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня 19\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.pdb
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\bin\Debug\baza.mdb
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\bin\Debug\WFApp18_22.exe.config
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\bin\Debug\WFApp18_22.exe
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\bin\Debug\WFApp18_22.pdb
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.csproj.AssemblyReference.cache
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.csproj.SuggestedBindingRedirects.cache
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.AboutBox1.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.Form1.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.Form2.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.Form3.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.Properties.Resources.resources
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.csproj.GenerateResource.cache
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.csproj.CoreCompileInputs.cache
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.exe
+C:\Users\akent\Desktop\практические\ОАиП\работы других\саня20\WFApp18_22\WFApp18_22\obj\Debug\WFApp18_22.pdb
